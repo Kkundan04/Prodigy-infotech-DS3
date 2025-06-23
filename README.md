@@ -8,7 +8,7 @@ To develop a classification model using the **Decision Tree algorithm**. The mod
 
 ## Files
 - <a>[Ds_Task3.ipynb ](https://github.com/Kkundan04/Prodigy-infotech-DS3/blob/main/Ds_Task3.ipynb/)</a>
-- <a>[bank-additional.csv ](https://github.com/Kkundan04/Prodigy-infotech-DS1/blob/main/bank-additional.csv)</a>
+- <a>[bank-additional.csv ](https://github.com/Kkundan04/Prodigy-infotech-DS3/blob/main/bank-additional.csv)</a>
 
 ## Tools and Libraries Used
 - Python
